@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Magmastorm3007/ChatProject1/static/css/main.395eaaf7.chunk.css",
+    "main.js": "/Magmastorm3007/ChatProject1/static/js/main.1e579be4.chunk.js",
+    "main.js.map": "/Magmastorm3007/ChatProject1/static/js/main.1e579be4.chunk.js.map",
+    "runtime-main.js": "/Magmastorm3007/ChatProject1/static/js/runtime-main.ff2ed003.js",
+    "runtime-main.js.map": "/Magmastorm3007/ChatProject1/static/js/runtime-main.ff2ed003.js.map",
+    "static/js/2.ce8276ca.chunk.js": "/Magmastorm3007/ChatProject1/static/js/2.ce8276ca.chunk.js",
+    "static/js/2.ce8276ca.chunk.js.map": "/Magmastorm3007/ChatProject1/static/js/2.ce8276ca.chunk.js.map",
+    "static/js/3.1e9c309d.chunk.js": "/Magmastorm3007/ChatProject1/static/js/3.1e9c309d.chunk.js",
+    "static/js/3.1e9c309d.chunk.js.map": "/Magmastorm3007/ChatProject1/static/js/3.1e9c309d.chunk.js.map",
+    "index.html": "/Magmastorm3007/ChatProject1/index.html",
+    "static/css/main.395eaaf7.chunk.css.map": "/Magmastorm3007/ChatProject1/static/css/main.395eaaf7.chunk.css.map",
+    "static/js/2.ce8276ca.chunk.js.LICENSE.txt": "/Magmastorm3007/ChatProject1/static/js/2.ce8276ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff2ed003.js",
+    "static/js/2.ce8276ca.chunk.js",
+    "static/css/main.395eaaf7.chunk.css",
+    "static/js/main.1e579be4.chunk.js"
+  ]
+}
